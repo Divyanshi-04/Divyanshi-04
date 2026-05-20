@@ -5,7 +5,7 @@ Hi! I’m Divyanshi, a passionate and curious developer currently pursuing B.Tec
 
 ## 📁 Projects I've Worked On
 
-### 🚨 PhantomClick — AI Scam Forensic Extension
+### 🚨 PhantomClick - AI Scam Forensic Extension
 
 * 🔍 Developed an AI-powered scam detection system using **Optical Character Recognition (OCR)** and **machine-learning-based URL risk scoring** to identify malicious SMS links.
 * 🛡️ Built a **zero-trust sandbox analysis pipeline** with Playwright to safely inspect suspicious URLs and capture threat behavior in an isolated environment.
@@ -13,7 +13,7 @@ Hi! I’m Divyanshi, a passionate and curious developer currently pursuing B.Tec
 
 ---
 
-### ⚖️ NYAYPAKSH — AI-Powered Legal Search Engine
+### ⚖️ NYAYPAKSH - AI-Powered Legal Search Engine
 
 * 🧠 Architected an AI-driven legal search platform trained on **500+ legal case precedents** to assist with precedent retrieval and case outcome prediction for legal research support.
 * 📚 Implemented an abstractive summarization pipeline using **Facebook BART**, reducing legal document review length by **67%** during evaluation on precedent datasets.
