@@ -13,7 +13,7 @@ Hi! I’m Divyanshi, a passionate and curious developer currently pursuing B.Tec
 
 ---
 
-###⚖️ NYAYPAKSH — AI-Powered Legal Search Engine
+### ⚖️ NYAYPAKSH — AI-Powered Legal Search Engine
 
 * 🧠 Architected an AI-driven legal search platform trained on **500+ legal case precedents** to assist with precedent retrieval and case outcome prediction for legal research support.
 * 📚 Implemented an abstractive summarization pipeline using **Facebook BART**, reducing legal document review length by **67%** during evaluation on precedent datasets.
