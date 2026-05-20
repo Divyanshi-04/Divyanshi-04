@@ -2,7 +2,7 @@
 Hi! I’m Divyanshi, a passionate and curious developer currently pursuing B.Tech in Computer Science at Indira Gandhi Delhi Technical University for Women (IGDTUW). I love to ideate upon ideas and build products that people can actually use. For me, the most exciting part is taking a simple thought, improving it through experimentation, and watching it become something meaningful and impactful.
 
 ## 📁 Projects I've Worked On
-## 🚨 PhantomClick — AI Scam Forensic Extension
+### 🚨 PhantomClick — AI Scam Forensic Extension
 
 * 🔍 Developed an AI-powered scam detection system using **Optical Character Recognition (OCR)** and **machine-learning-based URL risk scoring** to identify malicious SMS links.
 * 🛡️ Built a **zero-trust sandbox analysis pipeline** with Playwright to safely inspect suspicious URLs and capture threat behavior in an isolated environment.
