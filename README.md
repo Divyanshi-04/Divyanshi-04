@@ -1,19 +1,21 @@
 # Hello 👋
 Hi! I’m Divyanshi, a passionate and curious developer currently pursuing B.Tech in Computer Science at Indira Gandhi Delhi Technical University for Women (IGDTUW). I love to ideate upon ideas and build products that people can actually use. For me, the most exciting part is taking a simple thought, improving it through experimentation, and watching it become something meaningful and impactful.
 
-# 📁 Projects I've Worked On
-PhantomClick- AI Scam Forensic Extension
-• Developed an AI system using Optical Character Recognition technology and machine-learning-based URL risk scoring
-to identify scam SMS links.
-• Built a zero-trust sandbox analysis pipeline with Playwright to safely inspect suspicious URLs and capture threat
-behavior in a isolated environment.
-• Automated forensic report generation by converting sandbox evidence into structured, investigation-ready PDF reports.
+## 📁 Projects I've Worked On
+## 🚨 PhantomClick — AI Scam Forensic Extension
 
-NYAYPAKSH- AI-Powered Legal Search Engine
-• Architected a AI-driven legal search system trained on 500+ case precedents to assist in case outcome prediction and
-precedent retrieval, enhancing decision support for legal analysts.
-• Implemented an abstractive summarization model using Facebook BART, achieving a 67% reduction in legal document
-review length during evaluation on precedent datasets.
+* 🔍 Developed an AI-powered scam detection system using **Optical Character Recognition (OCR)** and **machine-learning-based URL risk scoring** to identify malicious SMS links.
+* 🛡️ Built a **zero-trust sandbox analysis pipeline** with Playwright to safely inspect suspicious URLs and capture threat behavior in an isolated environment.
+* 📄 Automated forensic report generation by transforming sandbox evidence into structured, investigation-ready PDF reports for faster cyber threat analysis.
+
+---
+
+## ⚖️ NYAYPAKSH — AI-Powered Legal Search Engine
+
+* 🧠 Architected an AI-driven legal search platform trained on **500+ legal case precedents** to assist with precedent retrieval and case outcome prediction for legal research support.
+* 📚 Implemented an abstractive summarization pipeline using **Facebook BART**, reducing legal document review length by **67%** during evaluation on precedent datasets.
+* ⚡ Focused on improving accessibility and efficiency in legal research through intelligent search, summarization, and AI-assisted decision support.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paldivyanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kratidivya2004@gmail.com) 
